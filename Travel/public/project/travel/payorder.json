@@ -1,0 +1,55 @@
+{
+  "id": "d65bcf6b-e0f0-45f5-bd2e-43720feb6762",
+  "userId": "bf043fcb-f483-4b95-a000-3c081ed10a4f",
+  "orderItems": [
+    {
+      "id": 6191,
+      "touristRouteId": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1",
+      "touristRoute": {
+        "id": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1",
+        "title": "Egypt Aswan+Luxor+Red Sea Red Sea+Cairo+Alexander 12-Day Group Tour (5 Diamonds)",
+        "description": "[Official Flagship Star Fun Group] 25 people capped | Full meal with visa tips | 3 nights Nile cruise+3 nights Red Sea all-inclusive resort +1 night in ancient capital of Bis | Upgraded Inland Airplane | High Quality Chinese Tour Team | Seven Temples+Free Program",
+        "price": 1199.999,
+        "originalPrice": 11999.99,
+        "discountPresent": 0.1,
+        "rating": 3.5,
+        "travelDays": "EightPlus",
+        "tripType": "HotelAndAttractions",
+        "departureCity": "Beijing",
+        "createTime": "0001-01-01T00:00:00",
+        "updateTime": null,
+        "departureTime": null,
+        "touristRoutePictures": []
+      },
+      "shoppingCartId": null,
+      "originalPrice": 11999.99,
+      "discountPresent": 0.1
+    },
+    {
+      "id": 6192,
+      "touristRouteId": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0",
+      "touristRoute": {
+        "id": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0",
+        "title": "Suzhou+Wuzhen+Hangzhou 3-Day 2-Night Group Tour (5 Diamonds)",
+        "description": "“Self-operated by Ctrip · 200 off for 2 adults! ” Living Ancient Town - Taste 5A Xitang [Star Tour · Chunyi Jiangnan] Suwu Town & Brand 5 Diamonds +199 Liters Pillow Water Songcheng Optional",
+        "price": 79.998,
+        "originalPrice": 799.98,
+        "discountPresent": 0.1,
+        "rating": null,
+        "travelDays": "",
+        "tripType": "",
+        "departureCity": "",
+        "createTime": "0001-01-01T00:00:00",
+        "updateTime": null,
+        "departureTime": null,
+        "touristRoutePictures": []
+      },
+      "shoppingCartId": null,
+      "originalPrice": 799.98,
+      "discountPresent": 0.1
+    }
+  ],
+  "state": "Completed",
+  "createDateUTC": "2022-09-12T22:49:27.79038",
+  "transactionMetadata": "ok"
+}

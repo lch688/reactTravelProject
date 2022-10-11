@@ -1,0 +1,94 @@
+{
+  "id": "e63eb0a0-22dc-4ced-b1ce-c1202e9dece7",
+  "userId": "bf043fcb-f483-4b95-a000-3c081ed10a4f",
+  "shoppingCartItems": [
+    {
+      "id": 6191,
+      "touristRouteId": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1",
+      "touristRoute": {
+        "id": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1",
+        "title": "Egypt Aswan+Luxor+Red Sea Red Sea+Cairo+Alexander 12-Day Group Tour (5 Diamonds)",
+        "description": "[Official Flagship Star Fun Group] 25 people capped | Full meal with visa tips | 3 nights Nile cruise+3 nights Red Sea all-inclusive resort +1 night in ancient capital of Bis | Upgraded Inland Airplane | High Quality Chinese Tour Team | Seven Temples+Free Program",
+        "price": 1199.999,
+        "originalPrice": 11999.99,
+        "discountPresent": 0.1,
+        "rating": 3.5,
+        "travelDays": "EightPlus",
+        "tripType": "HotelAndAttractions",
+        "departureCity": "Beijing",
+        "createTime": "0001-01-01T00:00:00",
+        "updateTime": null,
+        "departureTime": null,
+        "touristRoutePictures": [
+          {
+            "id": 1,
+            "url": "http://47.90.134.160:9568/api/images/product16.jpg",
+            "touristRouteId": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1"
+          },
+          {
+            "id": 2,
+            "url": "http://47.90.134.160:9568/api/images/product16.jpg",
+            "touristRouteId": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1"
+          },
+          {
+            "id": 3,
+            "url": "http://47.90.134.160:9568/api/images/product16.jpg",
+            "touristRouteId": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1"
+          },
+          {
+            "id": 4,
+            "url": "http://47.90.134.160:9568/api/images/product16.jpg",
+            "touristRouteId": "fb6d4f10-79ed-4aff-a915-4ce29dc9c7e1"
+          }
+        ]
+      },
+      "shoppingCartId": "e63eb0a0-22dc-4ced-b1ce-c1202e9dece7",
+      "originalPrice": 11999.99,
+      "discountPresent": 0.1
+    },
+    {
+      "id": 6192,
+      "touristRouteId": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0",
+      "touristRoute": {
+        "id": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0",
+        "title": "Suzhou+Wuzhen+Hangzhou 3-Day 2-Night Group Tour (5 Diamonds)",
+        "description": "“Self-operated by Ctrip · 200 off for 2 adults! ” Living Ancient Town - Taste 5A Xitang [Star Tour · Chunyi Jiangnan] Suwu Town & Brand 5 Diamonds +199 Liters Pillow Water Songcheng Optional",
+        "price": 79.998,
+        "originalPrice": 799.98,
+        "discountPresent": 0.1,
+        "rating": null,
+        "travelDays": "",
+        "tripType": "",
+        "departureCity": "",
+        "createTime": "0001-01-01T00:00:00",
+        "updateTime": null,
+        "departureTime": null,
+        "touristRoutePictures": [
+          {
+            "id": 5,
+            "url": "http://47.90.134.160:9568/api/images/product17.jpg",
+            "touristRouteId": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0"
+          },
+          {
+            "id": 6,
+            "url": "http://47.90.134.160:9568/api/images/product17.jpg",
+            "touristRouteId": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0"
+          },
+          {
+            "id": 7,
+            "url": "http://47.90.134.160:9568/api/images/product17.jpg",
+            "touristRouteId": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0"
+          },
+          {
+            "id": 8,
+            "url": "http://47.90.134.160:9568/api/images/product17.jpg",
+            "touristRouteId": "a1fd0bee-0afc-4586-96c8-f46b7c99d2a0"
+          }
+        ]
+      },
+      "shoppingCartId": "e63eb0a0-22dc-4ced-b1ce-c1202e9dece7",
+      "originalPrice": 799.98,
+      "discountPresent": 0.1
+    }
+  ]
+}

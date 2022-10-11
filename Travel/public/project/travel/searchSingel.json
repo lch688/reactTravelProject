@@ -1,0 +1,40 @@
+[
+    {
+      "id": "2430bf64-fd56-460c-8b75-da0a1d1cd74c",
+      "title": "France+Germany+Italy+Switzerland 12-day group tour (4 diamonds)",
+      "description": "[Ingenious and custom-made] Manor Hotel Jungfrau+Louvre+Palace of Versailles+Neuschwanstein Castle+Seine River Cruise+Gondola+Paris Montparnasse 56th Floor Sightseeing Gallery+Ruedesheim+Cologne +1 WIFI for 4",
+      "price": 1455.180,
+      "originalPrice": 14551.80,
+      "discountPresent": 0.1,
+      "rating": 5.0,
+      "travelDays": "Five",
+      "tripType": "backpackTour",
+      "departureCity": "Shenzhen",
+      "createTime": "0001-01-01T00:00:00",
+      "updateTime": null,
+      "departureTime": null,
+      "touristRoutePictures": [
+        {
+          "id": 19,
+          "url": "http://47.90.134.160:9568/api/images/product11.jpg",
+          "touristRouteId": "2430bf64-fd56-460c-8b75-da0a1d1cd74c"
+        },
+        {
+          "id": 20,
+          "url": "http://47.90.134.160:9568/api/images/product11.jpg",
+          "touristRouteId": "2430bf64-fd56-460c-8b75-da0a1d1cd74c"
+        },
+        {
+          "id": 21,
+          "url": "http://47.90.134.160:9568/api/images/product11.jpg",
+          "touristRouteId": "2430bf64-fd56-460c-8b75-da0a1d1cd74c"
+        },
+        {
+          "id": 22,
+          "url": "http://47.90.134.160:9568/api/images/product11.jpg",
+          "touristRouteId": "2430bf64-fd56-460c-8b75-da0a1d1cd74c"
+        }
+      ]
+    }
+  ]
+
